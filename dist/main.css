@@ -1,0 +1,25 @@
+/* make sure css file is included in index.html */
+.boxed {
+    border: 1px solid black;
+    font-family: 'Oxygen Mono', monospace;
+}
+#MovieList {
+    border: 1px solid black;
+}
+
+#title {
+    font-family: 'Oxygen Mono', monospace;
+    background-color: rgb(121, 118, 118);
+}
+
+#searchButton {
+    width: 57px;
+    height: 20px
+    
+}
+#Watched {
+  float: left;  
+}
+#Search {
+  float: right
+}
