@@ -23,3 +23,15 @@
 #Search {
   float: right
 }
+
+.watched {
+  float:right;
+}
+
+span {
+  display: block;
+}
+
+#whereToWatch {
+  float: right;
+}
